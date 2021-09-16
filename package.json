@@ -1,0 +1,24 @@
+{
+  "name": "07-APIRest-MongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egrgto/07-APIRest-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egrgto/07-APIRest-MongoDB/issues"
+  },
+  "homepage": "https://github.com/egrgto/07-APIRest-MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6"
+  }
+}
